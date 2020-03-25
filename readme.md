@@ -1,5 +1,4 @@
-# Zhe Song Copy of Js30 Projects
-
+# Zhe Song Copy of JavaScript30 Projects
 
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
 
